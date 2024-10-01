@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "karma-coverage": "^2.2.1",
+    "karma-junit-reporter": "^2.0.1"
+  }
+}
